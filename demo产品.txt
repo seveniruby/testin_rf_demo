@@ -1,0 +1,24 @@
+*** Test Cases ***
+test_mi_1
+    Should Be Equal    1    1
+
+test_mi_2
+    Should Be Equal    1    1
+
+test_mi_3
+    Should Be Equal    1    1
+
+test_htc_1
+    Should Be Equal    1    1
+
+test_htc_2
+    Should Be Equal    1    1
+
+test_htc_3
+    Should Be Equal    1    2
+
+test_htc_4
+    Should Be Equal    1    1
+
+test_红米
+    Should Be Equal    1    2
