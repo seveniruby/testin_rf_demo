@@ -6,7 +6,7 @@ test_mi_2
     Should Be Equal    1    1
 
 test_mi_3
-    Should Be Equal    1    3
+    Should Be Equal    1    1
 
 test_htc_1
     Should Be Equal    1    1

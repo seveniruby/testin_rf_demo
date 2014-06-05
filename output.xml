@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generated="20140605 20:58:18.372" generator="Robot 2.8.1 (Python 2.7.2 on win32)">
+<robot generated="20140605 21:00:41.271" generator="Robot 2.8.1 (Python 2.7.2 on win32)">
 <suite source="D:\seven\Dropbox\sihanjishu\testin\product\RFDemo\demo产品.txt" id="s1" name="Demo产品">
 <test id="s1-t1" name="test_mi_1">
 <kw type="kw" name="BuiltIn.Should Be Equal">
@@ -8,15 +8,15 @@
 <arg>1</arg>
 <arg>1</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.467" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.298" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<status status="PASS" endtime="20140605 20:58:18.467" starttime="20140605 20:58:18.466"></status>
+<status status="PASS" endtime="20140605 21:00:41.299" starttime="20140605 21:00:41.298"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="PASS" endtime="20140605 20:58:18.467" critical="yes" starttime="20140605 20:58:18.465"></status>
+<status status="PASS" endtime="20140605 21:00:41.299" critical="yes" starttime="20140605 21:00:41.297"></status>
 </test>
 <test id="s1-t2" name="test_mi_2">
 <kw type="kw" name="BuiltIn.Should Be Equal">
@@ -25,33 +25,32 @@
 <arg>1</arg>
 <arg>1</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.469" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.301" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<status status="PASS" endtime="20140605 20:58:18.469" starttime="20140605 20:58:18.469"></status>
+<status status="PASS" endtime="20140605 21:00:41.301" starttime="20140605 21:00:41.301"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="PASS" endtime="20140605 20:58:18.469" critical="yes" starttime="20140605 20:58:18.468"></status>
+<status status="PASS" endtime="20140605 21:00:41.301" critical="yes" starttime="20140605 21:00:41.300"></status>
 </test>
 <test id="s1-t3" name="test_mi_3">
 <kw type="kw" name="BuiltIn.Should Be Equal">
 <doc>Fails if the given objects are unequal.</doc>
 <arguments>
 <arg>1</arg>
-<arg>3</arg>
+<arg>1</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.471" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.303" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<msg timestamp="20140605 20:58:18.495" level="FAIL">1 != 3</msg>
-<status status="FAIL" endtime="20140605 20:58:18.495" starttime="20140605 20:58:18.471"></status>
+<status status="PASS" endtime="20140605 21:00:41.304" starttime="20140605 21:00:41.303"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="FAIL" endtime="20140605 20:58:18.496" critical="yes" starttime="20140605 20:58:18.470">1 != 3</status>
+<status status="PASS" endtime="20140605 21:00:41.304" critical="yes" starttime="20140605 21:00:41.303"></status>
 </test>
 <test id="s1-t4" name="test_htc_1">
 <kw type="kw" name="BuiltIn.Should Be Equal">
@@ -60,15 +59,15 @@
 <arg>1</arg>
 <arg>1</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.499" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.306" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<status status="PASS" endtime="20140605 20:58:18.499" starttime="20140605 20:58:18.498"></status>
+<status status="PASS" endtime="20140605 21:00:41.306" starttime="20140605 21:00:41.305"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="PASS" endtime="20140605 20:58:18.499" critical="yes" starttime="20140605 20:58:18.498"></status>
+<status status="PASS" endtime="20140605 21:00:41.306" critical="yes" starttime="20140605 21:00:41.305"></status>
 </test>
 <test id="s1-t5" name="test_htc_2">
 <kw type="kw" name="BuiltIn.Should Be Equal">
@@ -77,15 +76,15 @@
 <arg>1</arg>
 <arg>1</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.501" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.308" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<status status="PASS" endtime="20140605 20:58:18.501" starttime="20140605 20:58:18.501"></status>
+<status status="PASS" endtime="20140605 21:00:41.308" starttime="20140605 21:00:41.308"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="PASS" endtime="20140605 20:58:18.502" critical="yes" starttime="20140605 20:58:18.500"></status>
+<status status="PASS" endtime="20140605 21:00:41.308" critical="yes" starttime="20140605 21:00:41.307"></status>
 </test>
 <test id="s1-t6" name="test_htc_3">
 <kw type="kw" name="BuiltIn.Should Be Equal">
@@ -94,15 +93,15 @@
 <arg>1</arg>
 <arg>1</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.504" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.310" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<status status="PASS" endtime="20140605 20:58:18.504" starttime="20140605 20:58:18.503"></status>
+<status status="PASS" endtime="20140605 21:00:41.310" starttime="20140605 21:00:41.310"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="PASS" endtime="20140605 20:58:18.504" critical="yes" starttime="20140605 20:58:18.503"></status>
+<status status="PASS" endtime="20140605 21:00:41.310" critical="yes" starttime="20140605 21:00:41.309"></status>
 </test>
 <test id="s1-t7" name="test_htc_4">
 <kw type="kw" name="BuiltIn.Should Be Equal">
@@ -111,15 +110,15 @@
 <arg>1</arg>
 <arg>1</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.506" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.312" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<status status="PASS" endtime="20140605 20:58:18.506" starttime="20140605 20:58:18.506"></status>
+<status status="PASS" endtime="20140605 21:00:41.312" starttime="20140605 21:00:41.312"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="PASS" endtime="20140605 20:58:18.506" critical="yes" starttime="20140605 20:58:18.505"></status>
+<status status="PASS" endtime="20140605 21:00:41.313" critical="yes" starttime="20140605 21:00:41.311"></status>
 </test>
 <test id="s1-t8" name="test_红米">
 <kw type="kw" name="BuiltIn.Should Be Equal">
@@ -128,31 +127,31 @@
 <arg>1</arg>
 <arg>2</arg>
 </arguments>
-<msg timestamp="20140605 20:58:18.535" level="INFO">Argument types are:
+<msg timestamp="20140605 21:00:41.315" level="INFO">Argument types are:
 &lt;type 'unicode'&gt;
 &lt;type 'unicode'&gt;</msg>
-<msg timestamp="20140605 20:58:18.535" level="FAIL">1 != 2</msg>
-<status status="FAIL" endtime="20140605 20:58:18.535" starttime="20140605 20:58:18.535"></status>
+<msg timestamp="20140605 21:00:41.316" level="FAIL">1 != 2</msg>
+<status status="FAIL" endtime="20140605 21:00:41.316" starttime="20140605 21:00:41.315"></status>
 </kw>
 <doc></doc>
 <tags>
 </tags>
-<status status="FAIL" endtime="20140605 20:58:18.536" critical="yes" starttime="20140605 20:58:18.523">1 != 2</status>
+<status status="FAIL" endtime="20140605 21:00:41.317" critical="yes" starttime="20140605 21:00:41.314">1 != 2</status>
 </test>
 <doc></doc>
 <metadata>
 </metadata>
-<status status="FAIL" endtime="20140605 20:58:18.538" starttime="20140605 20:58:18.373"></status>
+<status status="FAIL" endtime="20140605 21:00:41.318" starttime="20140605 21:00:41.272"></status>
 </suite>
 <statistics>
 <total>
-<stat fail="2" pass="6">Critical Tests</stat>
-<stat fail="2" pass="6">All Tests</stat>
+<stat fail="1" pass="7">Critical Tests</stat>
+<stat fail="1" pass="7">All Tests</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat fail="2" pass="6" id="s1" name="Demo产品">Demo产品</stat>
+<stat fail="1" pass="7" id="s1" name="Demo产品">Demo产品</stat>
 </suite>
 </statistics>
 <errors>
